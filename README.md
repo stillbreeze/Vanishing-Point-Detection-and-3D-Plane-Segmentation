@@ -12,7 +12,7 @@ Automatic vanishing point detection
 - Identification of 3 dominant directions of line segments using iterative RANSAC 
 - Finding best fitting vanishing points for each direction
 
-<img src="pdf_images/q1/q1_img4/P1030001_inliers_iter3000_thresh2_sigma5_hlen11_hgap7.png" width="600">
+<img src="pdf_images/q1/q1_img4/P1030001_inliers_iter3000_thresh2_sigma5_hlen11_hgap7_copy.png" width="600">
 
 <img src="pdf_images/q1/q1_img4/P1030001_vanishing_point_iter3000_thresh2_sigma5_hlen11_hgap71.png" width="200"> <img src="pdf_images/q1/q1_img4/P1030001_vanishing_point_iter3000_thresh2_sigma5_hlen11_hgap72.png" width="200"> <img src="pdf_images/q1/q1_img4/P1030001_vanishing_point_iter3000_thresh2_sigma5_hlen11_hgap70.png" width="200"> <img src="pdf_images/q1/q1_img4/P1030001_vanishing_point_iter3000_thresh2_sigma5_hlen11_hgap7.png" width="200">
 
